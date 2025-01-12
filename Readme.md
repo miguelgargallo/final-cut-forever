@@ -2,7 +2,7 @@
 
 Este contenido es educacional e inspirado en su autor: Idea Visuals Tech, es un extra, un programa que he diseñado para hacerlo mas facil.
 
-![Video de Introducción](https://youtu.be/YOdxlBLbekc?si=78g5_6U5H1hhrHQN)
+[![Video de Introducción](https://youtu.be/YOdxlBLbekc?si=78g5_6U5H1hhrHQN)]
 
 Mis gracias a Idea Visuals Tech
 
